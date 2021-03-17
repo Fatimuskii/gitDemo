@@ -27,5 +27,7 @@ public class Controller {
 	
 	//modificacion 3
 	
+	//nuevo Pruducto
+	Productos prodElena = new Productos(20, "productoElena");
 
 }
