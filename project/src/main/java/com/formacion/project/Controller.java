@@ -6,6 +6,7 @@ public class Controller {
 
 	prod = new Productos(2, "El chunguillo");
 	prod = new Productos(5, "Trouble makers");
+	prod = new Productos(11, "PATATA")
 	Productos prodJ = new Productos(10, "productoJ");
 
 	
